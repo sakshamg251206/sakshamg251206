@@ -14,7 +14,7 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 
 - 🤝 Looking to collaborate with **people interested in AI/ML and innovative tech**
 
-- 👨‍💻 Check out my work on [your-github-username](https://github.com/your-github-sakshamg251206)
+- 👨‍💻 Check out my work on [your-github-sakshamg251206](https://github.com/your-github-sakshamg251206)
 
 - 💬 Ask me about **Machine Learning basics, Python, Data Analysis**
 
