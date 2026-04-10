@@ -42,7 +42,7 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,arduino,bash,cpp,github,linux,pytorch,sklearn" />
 </p>
 
 ---
