@@ -1,4 +1,4 @@
-<img src="./header.avif" width="100%" height="50%"/>
+<img src="./header.webp" width="100%" height="50%"/>
 
 <p>
   
