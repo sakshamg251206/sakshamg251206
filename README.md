@@ -16,6 +16,8 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 
 - 👨‍💻 Check out my work on [sakshamg251206](https://github.com/sakshamg251206?tab=repositories)
 
+-  portfolio [website](https://sakshamg251206.github.io/portfolio/)
+
 - 💬 Ask me about **Machine Learning basics, Python, Data Analysis**
 
 - 📫 Reach me at **sakshamgarg87@gmail.com**
