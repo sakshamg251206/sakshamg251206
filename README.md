@@ -38,8 +38,6 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamg251206&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
 </div>
 
 ## 🧰 Tech Stack
