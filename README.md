@@ -30,17 +30,6 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="170" />
-
-</div>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
