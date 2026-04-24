@@ -32,13 +32,15 @@ Hi 👋, I am <font size=6>**Saksham Garg**</font> an AI/ML enthusiast passionat
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamg251206&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakshamg251206&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="170" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamg251206&theme=tokyonight" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamg251206&theme=tokyonight&hide_border=true" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamg251206&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
-
----
 
 ## 🧰 Tech Stack
 
