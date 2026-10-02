@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Saksham Garg</title>
+  <desc id="desc">Quant Research, Machine Learning, Systematic Trading and Software Engineering. Decorative order-book depth ladder.</desc>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="56" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.5" fill="#0969da">QUANT RESEARCH · ML · SYSTEMS</text>
+  <text x="54" y="146" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Saksham Garg</text>
+  <text x="56" y="192" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#59636e">Market microstructure, alpha research and machine learning,</text>
+  <text x="56" y="222" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#59636e">built as tested software and judged out of sample.</text>
+  <text x="56" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#818b98">C++20 · Python · order books · backtesting · ML</text>
+  <line x1="860" y1="36" x2="860" y2="264" stroke="#eaeef2" stroke-width="1"/>
+  <line x1="930" y1="36" x2="930" y2="264" stroke="#eaeef2" stroke-width="1"/>
+  <line x1="1000" y1="36" x2="1000" y2="264" stroke="#eaeef2" stroke-width="1"/>
+  <line x1="1070" y1="36" x2="1070" y2="264" stroke="#eaeef2" stroke-width="1"/>
+  <line x1="1140" y1="36" x2="1140" y2="264" stroke="#eaeef2" stroke-width="1"/>
+  <rect x="905" y="14" width="51" height="17" rx="2" fill="#cf222e" fill-opacity="0.35"/>
+  <text x="891" y="27" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">103.25</text>
+  <rect x="905" y="35" width="82" height="17" rx="2" fill="#cf222e" fill-opacity="0.45"/>
+  <text x="891" y="48" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">103.00</text>
+  <rect x="905" y="56" width="63" height="17" rx="2" fill="#cf222e" fill-opacity="0.55"/>
+  <text x="891" y="69" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">102.75</text>
+  <rect x="905" y="77" width="111" height="17" rx="2" fill="#cf222e" fill-opacity="0.65"/>
+  <text x="891" y="90" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">102.50</text>
+  <rect x="905" y="98" width="74" height="17" rx="2" fill="#cf222e" fill-opacity="0.75"/>
+  <text x="891" y="111" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">102.25</text>
+  <rect x="905" y="119" width="130" height="17" rx="2" fill="#cf222e" fill-opacity="0.85"/>
+  <text x="891" y="132" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">102.00</text>
+  <line x1="845" y1="150" x2="1160" y2="150" stroke="#0969da" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="1160" y="144" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#0969da">mid 101.625</text>
+  <rect x="905" y="164" width="140" height="17" rx="2" fill="#1a7f37" fill-opacity="0.85"/>
+  <text x="891" y="177" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">101.50</text>
+  <rect x="905" y="185" width="97" height="17" rx="2" fill="#1a7f37" fill-opacity="0.75"/>
+  <text x="891" y="198" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">101.25</text>
+  <rect x="905" y="206" width="119" height="17" rx="2" fill="#1a7f37" fill-opacity="0.65"/>
+  <text x="891" y="219" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">101.00</text>
+  <rect x="905" y="227" width="69" height="17" rx="2" fill="#1a7f37" fill-opacity="0.55"/>
+  <text x="891" y="240" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">100.75</text>
+  <rect x="905" y="248" width="89" height="17" rx="2" fill="#1a7f37" fill-opacity="0.45"/>
+  <text x="891" y="261" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">100.50</text>
+  <rect x="905" y="269" width="58" height="17" rx="2" fill="#1a7f37" fill-opacity="0.35"/>
+  <text x="891" y="282" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818b98">100.25</text>
+</svg>
