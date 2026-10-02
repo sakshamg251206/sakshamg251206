@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/sakshamg251206/portfolio"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/sakshamg251206/portfolio/blob/main/assets/docs/Saksham_Garg_Resume.pdf"><b>Résumé</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/sakshamg251206/portfolio/blob/main/assets/docs/Saksham_Garg_Resume.pdf"><b>Resume</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/saksham-garg-997560319/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:sakshamgarg87@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://codeforces.com/profile/sakshamgarg87"><b>Codeforces</b></a>
