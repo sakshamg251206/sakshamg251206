@@ -13,7 +13,7 @@ import urllib.request
 
 LOGIN = os.environ.get("PROFILE_LOGIN", "sakshamg251206")
 OUT = os.environ.get("OUT_DIR", "dist")
-SKIP_LANGS = {"Jupyter Notebook", "HTML", "CSS", "SCSS", "Makefile", "Dockerfile", "Procfile"}
+SKIP_LANGS = {"Jupyter Notebook", "HTML", "CSS", "SCSS", "Makefile", "Dockerfile", "Procfile", "TeX", "Shell"}
 
 SANS = "'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
@@ -115,7 +115,11 @@ def render(d):
         return 1 + sum(c > t for t in q)
     cell, gap, x0, y0 = 14, 3, 58, 104
     months_seen = set()
-    for wi, week in enumerate(d["weeks"][-53:]):
+    weeks = d["weeks"][-53:]
+    # start the calendar at the first active week so long idle stretches are not shown
+    first = next((i for i, w in enumerate(weeks) if any(c for _, c in w)), 0)
+    weeks = weeks[max(0, first - 1):]
+    for wi, week in enumerate(weeks):
         x = x0 + wi * (cell + gap)
         for date, c in week:
             day = dt.date.fromisoformat(date)
@@ -126,7 +130,7 @@ def render(d):
                 b.append(f'<text x="{x}" y="{y0-10}" font-family="{MONO}" font-size="12" fill="{MUT}">{day.strftime("%b")}</text>')
     for i, lab in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
         b.append(f'<text x="{x0-10}" y="{y0 + i*(cell+gap) + 11}" text-anchor="end" font-family="{MONO}" font-size="11" fill="{MUT}">{lab}</text>')
-    lx = x0 + 53 * (cell + gap) - 5 * 17 - 80
+    lx = x0 + max(len(weeks), 20) * (cell + gap) - 5 * 17 - 80
     b.append(f'<text x="{lx}" y="{y0 + 7*(cell+gap) + 18}" font-family="{MONO}" font-size="12" fill="{MUT}">Less</text>')
     for i, col in enumerate(LEVELS):
         b.append(f'<rect x="{lx + 38 + i*17}" y="{y0 + 7*(cell+gap) + 7}" width="{cell}" height="{cell}" rx="3" fill="{col}"/>')
@@ -144,7 +148,7 @@ def render(d):
 
     # language mix
     total = sum(s for s, _ in d["langs"].values()) or 1
-    top = sorted(d["langs"].items(), key=lambda kv: -kv[1][0])[:6]
+    top = [kv for kv in sorted(d["langs"].items(), key=lambda kv: -kv[1][0])[:6] if kv[1][0] / total >= 0.01]
     bx, by, bw = 30, 300, 920
     b.append(f'<text x="{bx}" y="{by-14}" font-family="{MONO}" font-size="13" fill="{SUB}">languages across public repos</text>')
     b.append(f'<clipPath id="bar"><rect x="{bx}" y="{by}" width="{bw}" height="12" rx="6"/></clipPath><g clip-path="url(#bar)">')

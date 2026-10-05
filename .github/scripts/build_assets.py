@@ -186,7 +186,7 @@ def hero():
     # motto
     b.append(f'<text x="{x0}" y="462" font-family="{MONO}" font-size="17" font-style="italic" fill="#b9c4be">"Out of sample, or it didn\'t happen."</text>')
     # stat tiles
-    stats = [("Gold", "WorldQuant BRAIN"), ("1610", "Codeforces Expert"), ("1.58M", "Nasdaq events"), ("14", "open-source projects")]
+    stats = [("Gold", "WorldQuant BRAIN"), ("1610", "Codeforces Expert"), ("1.58M", "Nasdaq events"), ("15+", "open-source projects")]
     x = x0
     for v, l in stats:
         w = 178
