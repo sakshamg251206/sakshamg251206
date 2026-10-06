@@ -56,7 +56,6 @@
 <p align="center"><sub>
   <a href="https://drive.google.com/file/d/13neWKQFsuAHhJEAAKtW00X7jx-Gj_M9X/view?usp=drive_link">WorldQuant BRAIN proof</a> ·
   <a href="https://codeforces.com/profile/sakshamgarg87">Codeforces profile</a> ·
-  <a href="https://github.com/sakshamg251206/amazon_ml">Amazon ML solution</a>
 </sub></p>
 
 <img src="assets/footer.svg" alt="Research. Quantify. Build. Ship." width="100%">
